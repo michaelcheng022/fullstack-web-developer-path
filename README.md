@@ -17,19 +17,19 @@ This can be used as a companion to [FreeCodeCamp](https://www.freecodecamp.org/)
 | x | Course | Learn to use [Command line](https://commandlinepoweruser.com/)|  ||
 | x | Course | Learn Version Control (Git) - [Git course @Codeschool](https://try.github.io/levels/1/challenges/1) OR [Udacity - Git and Github](https://in.udacity.com/course/how-to-use-git-and-github--ud775)|   |    |
 | x  | Course | Learn Flexbox - [Flexbox.io](https://flexbox.io/) OR [Flexboxfroggy](http://flexboxfroggy.com/) |   |  10/10/18  |
-|   | Course | Learn Sass - [Sass-guide](http://sass-lang.com/guide) OR [Sass Tutorials](http://www.sassshop.com/#/) |   |    |
+| x | Course | Learn Sass - [Sass-guide](http://sass-lang.com/guide) OR [Sass Tutorials](http://www.sassshop.com/#/) |   |    |
 |  | Project | Refactor the portfolio site layout and CSS using Flexbox and Sass |   |    |
-| | Course | [Watch and Code - Practical Javascript](https://watchandcode.com/p/practical-javascript) |  |    |
+| x | Course | [Watch and Code - Practical Javascript](https://watchandcode.com/p/practical-javascript) |  |    |
 |   | Book | [Eloquent Javascript](http://eloquentjavascript.net/) |   |    |
 |   | Project | Do FCC [Javascript Basic Algorithm Challenges](https://www.freecodecamp.org/map) |   |    |
 |  | Book | Learn DOM manipulation - [DOM Enlightenment](http://domenlightenment.com/)  |   |    |
-|  | Project | Make a todo list webapp |   |    |
+| x | Project | Make a todo list webapp |   |    |
 |   | Course | Learn [AJAX](https://in.udacity.com/course/asynchronous-javascript-requests--ud109) |   |    |
-|   | Project | FCC Intermediate Project - [Build a Random Quote Generator](https://www.freecodecamp.com/challenges/build-a-random-quote-machine) |   |    |
-|   | Project | FCC Intermediate Project - [Build a Local Weather App](https://www.freecodecamp.com/challenges/show-the-local-weather) |   |    |
-|   | Project | FCC Intermediate Project - [Build a Wikipedia Viewer](https://www.freecodecamp.com/challenges/build-a-wikipedia-viewer) |   |    |
-|   | Project | FCC Intermediate Project - [Build a Twitch TV Viewer](https://www.freecodecamp.com/challenges/use-the-twitchtv-json-api) |   |    |
-|   | Course | Learn ES6 - [Wes Bos - ES6 for Everyone](https://es6.io/) (Paid) OR [ES6 Crash Course](https://laracasts.com/series/es6-cliffsnotes)|
+| x | Project | FCC Intermediate Project - [Build a Random Quote Generator](https://www.freecodecamp.com/challenges/build-a-random-quote-machine) |   |    |
+| x | Project | FCC Intermediate Project - [Build a Local Weather App](https://www.freecodecamp.com/challenges/show-the-local-weather) |   |    |
+| x | Project | FCC Intermediate Project - [Build a Wikipedia Viewer](https://www.freecodecamp.com/challenges/build-a-wikipedia-viewer) |   |    |
+|  | Project | FCC Intermediate Project - [Build a Twitch TV Viewer](https://www.freecodecamp.com/challenges/use-the-twitchtv-json-api) |   |    |
+| x | Course | Learn ES6 - [Wes Bos - ES6 for Everyone](https://es6.io/) (Paid) OR [ES6 Crash Course](https://laracasts.com/series/es6-cliffsnotes)|
 |   | Course | [Javascript30](https://javascript30.com/) |   |    |
 |   | Project | Do FCC [Javascript Intermediate Algorithm Challenges](https://www.freecodecamp.org/map) |   |    |
 |   | Project | FCC Advanced Project - [Build a Javascript Calculator](https://www.freecodecamp.com/challenges/build-a-javascript-calculator) |   |    |
